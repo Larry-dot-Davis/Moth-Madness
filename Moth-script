@@ -1,0 +1,74 @@
+:: StoryTitle
+Moth-Madness
+
+
+:: StoryData
+{
+  "ifid": "5B824FF0-5969-4FCB-BD4E-8924F9FB2FEC",
+  "format": "Harlowe",
+  "format-version": "3.3.9",
+  "start": "1. Start",
+  "zoom": 0.6
+}
+
+
+:: 1. Start {"position":"300,0","size":"100,100"}
+As you finished your morning jog to the Greensward Park and back to your house, the ground beneath your feet began cracking and quaking fiercely once set foot onto your porch. Before you knew it, the ground sunk within itself, taking the entirety of your house with it. Your porched reduced to a mere memorial of what you called home as you shakingly stood there, frozen in fear. Do you want to investigate or run in terror?
+
+[[2. Investigate]]
+[[3. Run away]]
+
+
+:: 10. Blink {"position":"500,1000","size":"100,100"}
+... A largely exceptional number of black, red-eyed moths swarmed you casing you to stumble around and fall into the sink hole, in front of creature you somehow admired.
+
+
+:: 2. Investigate {"position":"100,200","size":"100,100"}
+Upon investigating the sudden sink hole, the ground sunk beneath you and your porch. You fell approximately 1,578 ft, and you landed in a thick bundle of dust and debris from eroded rocks and muddy soil to shattered glassed and the broken mess that used to be your home. You died, of course. However, before you met your demise, a white orb floated in your gaze, giving you a chance to return to the start. Hint: Don't ever investigate sink holes.
+
+[[1. Start]]
+
+
+:: 3. Run away {"position":"450,200","size":"100,100"}
+As you ran for your life, you noticed the sink hole growing at a exponential rate. Its colossal size swallowed your well-known neighbors and their houses leaving nothing but the sinking ground and clouds of dust. During your panicked sprint, you heard the distinct screeching of a creature you never knew existed. Do you want to stop and look around or continue running toward safety?
+
+[[4. Look around]]
+[[5. Continue running]]
+
+
+:: 4. Look around {"position":"250,450","size":"100,100"}
+Upon looking around to locate the source of the screeching, the ground sunk beneath you. You fell approximately 1,423 ft, and you landed in a thick bundle of dust and debris from eroded rocks and muddy soil to shattered glassed and the broken mess that used to be your neighborhood. You died, of course.  However, before you met your demise, a white orb floated in your gaze, giving you a chance to return to the start. Hint: Don't stop running when the ground is literally sinking!
+
+[[1. Start]]
+
+
+:: 5. Continue running {"position":"650,400","size":"100,100"}
+You kept running, and the ground finally stopped shaking and sinking. The screech hushed, but as you looked skyward to catch your breath, you saw a winged man-like creature hovering just meters away from the catastrophe. You took a few steps back, even though there was no use in running from a creature of flight. An unsettling mixture of fright and fascination filled you. Do you pull out your phone to capture this creature in a picture, or will you just stare in absolute awe as the creature flies toward you?
+
+[[6. Take a picture]]
+[[7. Stare in awe]]
+
+
+:: 6. Take a picture {"position":"450,600","size":"100,100"}
+Once your was in hand and your camera app was opened, the winged man flew away. However, you were lucky to capture it in an incredibly blurry picture due to the sheer amount of fear and adrenaline pounding through your veins. During its retreat, its screech came back, but it was short-lived. You looked back at the photo to see the creature's ominously glowing red eyes and a tail of either fur or feathers falling its body. Do you share the picture with somebody, or will you follow the mysterious trail it left behind?
+
+[[8. Share the picture]]
+
+[[9. Follow its trail]]
+
+
+:: 7. Stare in awe {"position":"900,600","size":"100,100"}
+As you stared in absolute awe at the creature, its talons opened and began slashing at you in quick succession, leaving you disfigured beyond all belief, It flew away as you fell down to the ground, covered fuzz, sweat, and blood. You stared toward the sky to see its retreating figure and a white mysterious orb that floated in your hazy gaze, giving you a chance to return to the start.
+
+[[1. Start]]
+
+
+:: 8. Share the picture {"position":"300,800","size":"100,100"}
+When you shared your picture with others, they scoffed and took for a fool. Amidst this catastrophe, you became a laughingstock. You are now the town fool.
+
+
+:: 9. Follow its trail {"position":"650,800","size":"100,100"}
+You followed the trail in a hurry, wanting to catch up with the beast as soon as humanly possible. The trail led you to smaller sink hole about 70 meters away from the one that nearly killed you. Inside of it, you saw its ominously red glowing eyes staring back at you. And as soon as you blink...
+
+[[10. Blink]]
+... A largely exceptional number of black, red-eyed moths swarmed you casing you to stumble around and fall into the sink hole, in front of creature you somehow admired.
